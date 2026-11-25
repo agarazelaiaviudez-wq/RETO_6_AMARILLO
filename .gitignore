@@ -1,0 +1,10 @@
+#datos originales
+datos/minipuzzles_historial_compras.csv
+datos/minupizzles_eventos_retos.csv
+datos/minupizzles_eventos_juego.csv
+datos/minupizzles_eventos_compra.csv
+datos/minupizzles_eventos_anuncios.csv
+
+#entornos virtuales
+.venv/
+venv/
